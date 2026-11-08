@@ -38,6 +38,12 @@ Ask your documents anything — contracts, reports, manuals, books — in plain 
 
 ## Experience
 
+**Ligus — Founder & Developer** *(Oct 2026 – Present)*
+
+- Designed, built, and shipped Ligus solo — a local Windows app that answers questions over your own documents at up to ~95% fewer tokens per answer
+- Built the full pipeline in Python: document indexing (embeddings + SQLite), a two-stage relevance judge packaged as an ONNX model, and provider API integration
+- Measured quality on a fixed benchmark of 1,002 questions over 100 real documents; shipped as a compiled one-click installer with public releases
+
 **Amazon Development Center — DevOps Engineer** *(Mar 2022 – May 2026, Hyderabad)*
 
 - Maintained production infrastructure with zero-downtime discipline — recognised with Amazon's *Excellence in Zero Downtime Infrastructure Maintenance* award (2024)
