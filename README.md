@@ -9,6 +9,9 @@
 
 ## What I do
 
+- **Build and ship Ligus** — a local document Q&A product, designed, coded, packaged, and released solo, end to end
+- Build **AI pipelines in Python** — document indexing with embeddings and SQLite, a two-stage relevance judge shipped as an ONNX model, and LLM/provider API integration
+- **Measure AI quality honestly** — every release is scored on a fixed benchmark of 1,002 questions over 100 real documents before it ships
 - Run **Kubernetes (EKS)** clusters in production — Docker, Helm, zero-downtime releases
 - Build **CI/CD pipelines** (Jenkins, GitLab CI) that ship safely and roll back cleanly
 - Automate infrastructure with **Terraform & Ansible** — repeatable, reviewed, no hand-built servers
@@ -24,6 +27,7 @@
 | CI/CD | Jenkins · GitLab CI |
 | Infrastructure as Code | Terraform · Ansible |
 | Monitoring | Prometheus · Grafana · Datadog |
+| AI (applied) | Embeddings · SQLite retrieval · ONNX model packaging · LLM / provider API integration · Evaluation & benchmarking |
 | Languages & OS | Python · Shell · YAML · Linux · Windows (Tomcat) |
 
 ## Featured project — Ligus
